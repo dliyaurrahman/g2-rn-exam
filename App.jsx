@@ -8,6 +8,7 @@ import HomeTab from "./src/screen/tab/HomeTab";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 const Stack = createNativeStackNavigator();
+//haahahahahahhaha
 
 export default function App() {
   return (
